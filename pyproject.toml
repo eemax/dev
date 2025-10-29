@@ -1,7 +1,10 @@
 [project]
-name = "dev venv"
+name = "dev"
 version = "1.0"
 description = "My portable dev env"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "pandas>=2.2.2",
+    "openpyxl>=3.1.2",
+]

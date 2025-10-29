@@ -1,0 +1,6 @@
+<ChangeNode URL="url" >
+	<ChangeAttribute Id="id" Type="type" Value="value" />
+</ChangeNode>
+<ChangeNode URL="C12345" >
+	<ChangeAttribute Id="ActualSizeRange" Type="ref" Value="C185811" />
+</ChangeNode>
