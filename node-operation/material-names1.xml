@@ -1,0 +1,399 @@
+<ChangeNode URL="C105527" >
+	<ChangeAttribute Id="Code" Type="string" Value="JL-558RC-NEON" />
+</ChangeNode>
+<ChangeNode URL="C2870485" >
+	<ChangeAttribute Id="Code" Type="string" Value="JL-659RC-DB" />
+</ChangeNode>
+<ChangeNode URL="C2865123" >
+	<ChangeAttribute Id="Code" Type="string" Value="JL-659RC-PF" />
+</ChangeNode>
+<ChangeNode URL="C3250456" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT01-1-REGULAR-PIQUE" />
+</ChangeNode>
+<ChangeNode URL="C2694650" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT01-10-REGULAR-PIQUE" />
+</ChangeNode>
+<ChangeNode URL="C2694921" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT01-11-REGULAR-PIQUE" />
+</ChangeNode>
+<ChangeNode URL="C2995296" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT01-12-LACOSTE-PIQUE" />
+</ChangeNode>
+<ChangeNode URL="C3111375" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT01-13-EYELET-PIQUE" />
+</ChangeNode>
+<ChangeNode URL="C3887428" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT01-14-REGULAR-PIQUE" />
+</ChangeNode>
+<ChangeNode URL="C5046103" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT01-16-REGULAR-PIQUE" />
+</ChangeNode>
+<ChangeNode URL="C5281716" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT01-17-REGULAR-PIQUE" />
+</ChangeNode>
+<ChangeNode URL="C2526691" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT01-2-REGULAR-PIQUE" />
+</ChangeNode>
+<ChangeNode URL="C6218550" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT01-26-REGULAR-PIQUE" />
+</ChangeNode>
+<ChangeNode URL="C6218803" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT01-27-PIQUE" />
+</ChangeNode>
+<ChangeNode URL="C6226701" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT01-28-REGULAR-PIQUE" />
+</ChangeNode>
+<ChangeNode URL="C6226709" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT01-29-REGULAR-PIQUE" />
+</ChangeNode>
+<ChangeNode URL="C3251466" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT01-3-REGULAR-PIQUE" />
+</ChangeNode>
+<ChangeNode URL="C6232433" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT01-30-REGULAR-PIQUE" />
+</ChangeNode>
+<ChangeNode URL="C2526690" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT01-4-REGULAR-PIQUE" />
+</ChangeNode>
+<ChangeNode URL="C2467948" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT01-5-REGULAR-PIQUE" />
+</ChangeNode>
+<ChangeNode URL="C3251465" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT01-6-REGULAR-PIQUE" />
+</ChangeNode>
+<ChangeNode URL="C2526692" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT01-7-REGULAR-PIQUE" />
+</ChangeNode>
+<ChangeNode URL="C2694649" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT01-8-REGULAR-PIQUE" />
+</ChangeNode>
+<ChangeNode URL="C3111601" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT01-9-REGULAR-PIQUE" />
+</ChangeNode>
+<ChangeNode URL="C4453457" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT01-15-REGULAR-PIQUE" />
+</ChangeNode>
+<ChangeNode URL="C5460217" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT01-18-REGULAR-PIQUE" />
+</ChangeNode>
+<ChangeNode URL="C2695475" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT02-1-SHERPA-FLEECE" />
+</ChangeNode>
+<ChangeNode URL="C2797291" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT02-2-INSIDE-FLEECE" />
+</ChangeNode>
+<ChangeNode URL="C2879878" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT02-3-FLEECE" />
+</ChangeNode>
+<ChangeNode URL="C2922253" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT02-4-MICRO-FLEECE" />
+</ChangeNode>
+<ChangeNode URL="C4621635" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT02-5-PILE-FLEECE" />
+</ChangeNode>
+<ChangeNode URL="C6241810" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT02-6" />
+</ChangeNode>
+<ChangeNode URL="C6250768" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT02-7" />
+</ChangeNode>
+<ChangeNode URL="C6462072" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT02-9-FLEECE" />
+</ChangeNode>
+<ChangeNode URL="C2585944" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT03-1-SOFTSHELL-FLEECE" />
+</ChangeNode>
+<ChangeNode URL="C3933280" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT03-2-SOFTSHELL-FLEECE" />
+</ChangeNode>
+<ChangeNode URL="C2809164" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT03-3-SOFTSHELL-FLEECE" />
+</ChangeNode>
+<ChangeNode URL="C2695481" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT03-4-SOFTSHELL-BIRDSEYE" />
+</ChangeNode>
+<ChangeNode URL="C4994043" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT03-5-SOFTSHELL-FLEECE" />
+</ChangeNode>
+<ChangeNode URL="C3251467" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT04-1-SINGLE-JERSEY" />
+</ChangeNode>
+<ChangeNode URL="C2694647" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT04-11-SINGLE-JERSEY" />
+</ChangeNode>
+<ChangeNode URL="C2694648" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT04-12-SINGLE-JERSEY" />
+</ChangeNode>
+<ChangeNode URL="C3066748" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT04-13-SINGLE-JERSEY-CUFF" />
+</ChangeNode>
+<ChangeNode URL="C4229869" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT04-14-SINGLE-JERSEY" />
+</ChangeNode>
+<ChangeNode URL="C4453068" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT04-15-SINGLE-JERSEY" />
+</ChangeNode>
+<ChangeNode URL="C4500801" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT04-16-SINGLE-JERSEY" />
+</ChangeNode>
+<ChangeNode URL="C5046041" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT04-17-SINGLE-JERSEY" />
+</ChangeNode>
+<ChangeNode URL="C6150860" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT04-19-SINGLE-JERSEY" />
+</ChangeNode>
+<ChangeNode URL="C2504483" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT04-2-SINGLE-JERSEY" />
+</ChangeNode>
+<ChangeNode URL="C6158701" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT04-20-SINGLE-JERSEY" />
+</ChangeNode>
+<ChangeNode URL="C6215089" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT04-23-SINGLE-JERSEY" />
+</ChangeNode>
+<ChangeNode URL="C6226231" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT04-24-SINGLE-JERSEY" />
+</ChangeNode>
+<ChangeNode URL="C6235127" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT04-25-SINGLE-JERSEY" />
+</ChangeNode>
+<ChangeNode URL="C3252366" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT04-3-SINGLE-JERSEY" />
+</ChangeNode>
+<ChangeNode URL="C6269103" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT04-34-SINGLE-JERSEY" />
+</ChangeNode>
+<ChangeNode URL="C6278019" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT04-35-SINGLE-JERSEY" />
+</ChangeNode>
+<ChangeNode URL="C6461743" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT04-36-SINGLE-JERSEY" />
+</ChangeNode>
+<ChangeNode URL="C6478882" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT04-37-SINGLE-JERSEY" />
+</ChangeNode>
+<ChangeNode URL="C2548307" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT04-4-SINGLE-JERSEY" />
+</ChangeNode>
+<ChangeNode URL="C3251891" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT04-5-SINGLE-JERSEY" />
+</ChangeNode>
+<ChangeNode URL="C2552694" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT04-6-SINGLE-JERSEY" />
+</ChangeNode>
+<ChangeNode URL="C3568399" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT04-7-SINGLE-JERSEY" />
+</ChangeNode>
+<ChangeNode URL="C2694493" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT04-8-SINGLE-JERSEY" />
+</ChangeNode>
+<ChangeNode URL="C3788706" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT04-9-SINGLE-JERSEY" />
+</ChangeNode>
+<ChangeNode URL="C3788707" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT04-10-SINGLE-JERSEY" />
+</ChangeNode>
+<ChangeNode URL="C5459882" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT04-18-SINGLE-JERSEY" />
+</ChangeNode>
+<ChangeNode URL="C3252367" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT05-1-FRENCH-TERRY" />
+</ChangeNode>
+<ChangeNode URL="C2517418" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT05-2-FRENCH-TERRY" />
+</ChangeNode>
+<ChangeNode URL="C2949099" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT05-3-FRENCH-TERRY" />
+</ChangeNode>
+<ChangeNode URL="C2694922" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT05-4-FRENCH-TERRY" />
+</ChangeNode>
+<ChangeNode URL="C2694923" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT05-5-FRENCH-TERRY" />
+</ChangeNode>
+<ChangeNode URL="C5045730" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT05-8-FRENCH-TERRY" />
+</ChangeNode>
+<ChangeNode URL="C4969953" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT05-6-FRENCH-TERRY" />
+</ChangeNode>
+<ChangeNode URL="C5032092" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT05-7-FRENCH-TERRY" />
+</ChangeNode>
+<ChangeNode URL="C2695474" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT06-1-FINE-KNIT" />
+</ChangeNode>
+<ChangeNode URL="C3164276" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT06-2-FINE-KNIT" />
+</ChangeNode>
+<ChangeNode URL="C3164277" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT06-3-HONEYCOMB-KNIT" />
+</ChangeNode>
+<ChangeNode URL="C3755404" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT06-4-BIRDSEYE-KNIT" />
+</ChangeNode>
+<ChangeNode URL="C4498150" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT06-5-WAFFLE-KNIT" />
+</ChangeNode>
+<ChangeNode URL="C2695471" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT07-1-BRUSHED-TWILL-POLY" />
+</ChangeNode>
+<ChangeNode URL="C2824686" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT07-2-TWILL-POLY" />
+</ChangeNode>
+<ChangeNode URL="C2995295" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT07-3-THREE-LAYER-POLY" />
+</ChangeNode>
+<ChangeNode URL="C4577389" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT07-4-AIRLAYER-POLY" />
+</ChangeNode>
+<ChangeNode URL="C6503246" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT07-5-MIDLAYER-KNIT" />
+</ChangeNode>
+<ChangeNode URL="C2470174" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT08-1-OUTERWEAR" />
+</ChangeNode>
+<ChangeNode URL="C2695482" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT08-10-OUTERWEAR" />
+</ChangeNode>
+<ChangeNode URL="C2695483" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT08-11-OUTERWEAR" />
+</ChangeNode>
+<ChangeNode URL="C2695485" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT08-12-OUTERWEAR" />
+</ChangeNode>
+<ChangeNode URL="C2797290" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT08-13-OUTERWEAR" />
+</ChangeNode>
+<ChangeNode URL="C2849005" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT08-14-OUTERWEAR" />
+</ChangeNode>
+<ChangeNode URL="C2995297" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT08-15-OUTERWEAR" />
+</ChangeNode>
+<ChangeNode URL="C3063651" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT08-16-OUTERWEAR" />
+</ChangeNode>
+<ChangeNode URL="C3829336" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT08-17-OUTERWEAR" />
+</ChangeNode>
+<ChangeNode URL="C4009506" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT08-18-OUTERWEAR" />
+</ChangeNode>
+<ChangeNode URL="C4819322" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT08-19-OUTERWEAR" />
+</ChangeNode>
+<ChangeNode URL="C2472754" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT08-2-OUTERWEAR" />
+</ChangeNode>
+<ChangeNode URL="C4975838" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT08-20-OUTERWEAR" />
+</ChangeNode>
+<ChangeNode URL="C2695472" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT08-3-OUTERWEAR" />
+</ChangeNode>
+<ChangeNode URL="C2695473" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT08-4-OUTERWEAR" />
+</ChangeNode>
+<ChangeNode URL="C2695476" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT08-5-OUTERWEAR" />
+</ChangeNode>
+<ChangeNode URL="C2695477" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT08-6-OUTERWEAR" />
+</ChangeNode>
+<ChangeNode URL="C2695478" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT08-7-OUTERWEAR" />
+</ChangeNode>
+<ChangeNode URL="C2695479" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT08-8-OUTERWEAR" />
+</ChangeNode>
+<ChangeNode URL="C2695480" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT08-9-OUTERWEAR" />
+</ChangeNode>
+<ChangeNode URL="C3760174" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT09-1-DENIM" />
+</ChangeNode>
+<ChangeNode URL="C3925147" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT09-2-DENIM" />
+</ChangeNode>
+<ChangeNode URL="C4795077" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT09-3-DENIM" />
+</ChangeNode>
+<ChangeNode URL="C2695484" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT10-1-LEATHER" />
+</ChangeNode>
+<ChangeNode URL="C4938387" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT10-2-FAUX-LEATHER" />
+</ChangeNode>
+<ChangeNode URL="C2995582" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT11-1-WOVEN-POPLINE" />
+</ChangeNode>
+<ChangeNode URL="C4569970" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT11-10-WOVEN-TWILL" />
+</ChangeNode>
+<ChangeNode URL="C6150940" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT11-11" />
+</ChangeNode>
+<ChangeNode URL="C6250947" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT11-19" />
+</ChangeNode>
+<ChangeNode URL="C2695486" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT11-2-WOVEN-OXFORD" />
+</ChangeNode>
+<ChangeNode URL="C6269102" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT11-22" />
+</ChangeNode>
+<ChangeNode URL="C6278007" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT11-23" />
+</ChangeNode>
+<ChangeNode URL="C6278013" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT11-24" />
+</ChangeNode>
+<ChangeNode URL="C6296387" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT11-25" />
+</ChangeNode>
+<ChangeNode URL="C6302943" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT11-26" />
+</ChangeNode>
+<ChangeNode URL="C6442057" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT11-27" />
+</ChangeNode>
+<ChangeNode URL="C3612403" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT11-3-WOVEN-CANVAS" />
+</ChangeNode>
+<ChangeNode URL="C3660710" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT11-4-WOVEN-TWILL" />
+</ChangeNode>
+<ChangeNode URL="C3772423" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT11-5-WOVEN-TWILL" />
+</ChangeNode>
+<ChangeNode URL="C3924437" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT11-6-WOVEN-LINEN" />
+</ChangeNode>
+<ChangeNode URL="C3927776" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT11-7-WOVEN-CHECKED" />
+</ChangeNode>
+<ChangeNode URL="C4043757" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT11-8-WOVEN-WAFFLE" />
+</ChangeNode>
+<ChangeNode URL="C4231428" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT11-9-WOVEN-OXFORD" />
+</ChangeNode>
+<ChangeNode URL="C3137340" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT12-1-INTERLOCK" />
+</ChangeNode>
+<ChangeNode URL="C2995245" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT12-2-INTERLOCK" />
+</ChangeNode>
+<ChangeNode URL="C3875420" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT13-1-CORDUROY" />
+</ChangeNode>
+<ChangeNode URL="C3634041" >
+	<ChangeAttribute Id="Code" Type="string" Value="MAT24-002" />
+</ChangeNode>
+<ChangeNode URL="C2697681" >
+	<ChangeAttribute Id="Code" Type="string" Value="MESH01-001" />
+</ChangeNode>
+<ChangeNode URL="C3635093" >
+	<ChangeAttribute Id="Code" Type="string" Value="MESH01-002" />
+</ChangeNode>

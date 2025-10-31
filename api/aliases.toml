@@ -1,0 +1,22 @@
+# Map short flags to full URLs
+
+[aliases]
+seasons = "https://nwg-prod.centricsoftware.com/csi-requesthandler/api/v2/seasons"
+
+styles = "https://nwg-prod.centricsoftware.com/csi-requesthandler/api/v2/styles"
+styleslimit = "/csi-requesthandler/api/v2/styles?skip=0&limit=1"
+
+stylebom = "https://nwg-prod.centricsoftware.com/csi-requesthandler/api/v2/apparel_boms/C2527567"
+stylebomrev ="https://nwg-prod.centricsoftware.com/csi-requesthandler/api/v3/apparel_bom_revisions"
+stylebomrevpartmaterial = "https://nwg-prod.centricsoftware.com/csi-requesthandler/api/v3/apparel_bom_revisions/C2527652/items/part_materials"
+partmaterials = "https://nwg-prod.centricsoftware.com/csi-requesthandler/api/v3/part_materials"
+
+materials = "https://nwg-prod.centricsoftware.com/csi-requesthandler/api/v2/materials"
+
+apisearch = "https://nwg-prod.centricsoftware.com/csi-requesthandler/api/v2/api_search"
+countpartmaterial = "https://nwg-prod.centricsoftware.com/csi-requesthandler/api/v2/count/PartMaterial"
+countstyles = "https://nwg-prod.centricsoftware.com/csi-requesthandler/api/v2/count/Style"
+countstylesactive = "https://nwg-prod.centricsoftware.com/csi-requesthandler/api/v2/count/Style?active=true"
+
+colorspecs = "https://nwg-prod.centricsoftware.com/csi-requesthandler/api/v2/color_specifications"
+colorways = "https://nwg-prod.centricsoftware.com/csi-requesthandler/api/v2/colorways"

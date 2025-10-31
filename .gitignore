@@ -1,2 +1,5 @@
 .venv
+.env
+.token
+*.log
 uv.lock
